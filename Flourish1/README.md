@@ -7,4 +7,4 @@ https://data.seattle.gov/Built-Environment/Issued-Building-Permits/8tqq-u7ib/abo
 Link to Visualization: 
 https://public.flourish.studio/visualisation/28522370/
 
-![Building Permits Chart]("Flourish1Assignment Chart image.png")
+![Building Permits Chart](chart.png)

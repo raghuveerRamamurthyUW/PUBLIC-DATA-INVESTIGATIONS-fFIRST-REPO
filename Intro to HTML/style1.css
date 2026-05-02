@@ -1,0 +1,45 @@
+body {
+  font-family: family-name | generic-family;  
+   font-style: normal | italic | oblique;  
+   font-variant: normal | small-caps;
+   background-color :lightblue ;
+
+h1 {
+  font-size: 4em;
+  margin: 0.25em 0;
+}
+
+h2 {
+  font-size: 2em;
+  margin: 0.25em 0;
+  color: white
+}
+
+
+
+h3 {
+  font-size: 1em;
+  margin: 0.25em 0;
+}
+
+h4 {
+  font-size: 1em;
+  margin: 0.25em 0;
+  font-weight: bold;
+}
+
+p {
+  font-size: 1em;
+  color:  red;
+}
+
+p1 {
+  font-size: 1em;
+  color:  yellow;
+}
+
+a{
+  font-size: 1em;
+  color : blue
+  
+}
